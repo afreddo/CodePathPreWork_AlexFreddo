@@ -50,6 +50,15 @@ Youtube
 - Video previews on thumbnails
 - Ability to access videos without storing locally
 
+I have an idea for an app called "Pup Pack" to help connect dog owners. Homeowners with dogs often struggle to find ways to socialize their dog with other dogs and other dog owners. This is amplified when owners move to new locations where they haven't had time to build their social circle. My app would be a social media app that allows dog owners to create a profile exclusively for their dog listing the dogs likes and dislikes (e.g, Likes adult dogs, does not do well with puppies, etc). They could then find other dogs in the area that would be compatible with their dog and they could set meet ups at local parks. This would allow them to meet new people and grow their pup's pack.
+
+Some features of the app could include the following:
+- Profile creation
+- Local storage of profile information
+- Use of MapKit to display local parks and look for dog meetups
+- User authentication
+- Sharing of information between different user's devices
+
 ## Notes
 
 Storyboards are new to me and I found the concept of providing different functionality for different buttons to be a challenge. I ended up realizing that I could add both of the buttons to the same IBAction and used an if/else statement to switch the intended functionality.
