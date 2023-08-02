@@ -19,12 +19,7 @@ Here's a walkthrough of implemented user stories:
 
 ![Kapture 2023-08-01 at 21 20 20](https://github.com/afreddo/CodePathPreWork_AlexFreddo/assets/64040498/89d0963e-c8f0-46dc-b8d8-d929cea6e6b6)
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
 
@@ -50,7 +45,7 @@ Youtube
 - Video previews on thumbnails
 - Ability to access videos without storing locally
 
-I have an idea for an app called "Pup Pack" to help connect dog owners. Homeowners with dogs often struggle to find ways to socialize their dog with other dogs and other dog owners. This is amplified when owners move to new locations where they haven't had time to build their social circle. My app would be a social media app that allows dog owners to create a profile exclusively for their dog listing the dogs likes and dislikes (e.g, Likes adult dogs, does not do well with puppies, etc). They could then find other dogs in the area that would be compatible with their dog and they could set meet ups at local parks. This would allow them to meet new people and grow their pup's pack.
+I have an idea for an app called "Pup Pack" to help connect dog owners. Dog owners often struggle to find ways to socialize their dog. This is amplified when owners move to new locations where they haven't had time to build their social circle. My app would be a social media app that allows dog owners to create a profile exclusively for their dog. The profile would include information about the pup including listing likes and dislikes (e.g, Likes adult dogs, does not do well with puppies, etc). They could then find other dogs in the area that would be compatible with their dog and could set meetups at local parks. This would allow both the pup and the owner to meet new people and grow their pup's pack.
 
 Some features of the app could include the following:
 - Profile creation
