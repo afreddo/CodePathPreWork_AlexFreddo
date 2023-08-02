@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Kapture 2023-08-01 at 21 20 20](https://github.com/afreddo/CodePathPreWork_AlexFreddo/assets/64040498/89d0963e-c8f0-46dc-b8d8-d929cea6e6b6)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
