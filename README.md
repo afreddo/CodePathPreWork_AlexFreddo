@@ -30,11 +30,11 @@ Flighty
 - The connectivity to many different APIs to populate tables with useful flight information
 
 Reddit
-- Stringing together posts and comments seemlessly
+- Stringing together posts and comments seamlessly
 - Storing user's post and comment history
 
 Amazon
-- Use of different views to view products in many different ways
+- Use of different views to view products gives a refreshing feel to shopping
 - Payment screen UI/UX
 
 Google Maps
@@ -43,7 +43,7 @@ Google Maps
 
 Youtube
 - Video previews on thumbnails
-- Ability to access videos without storing locally
+- Ability to access videos without storing the whole video locally
 
 I have an idea for an app called "Pup Pack" to help connect dog owners. Dog owners often struggle to find ways to socialize their dog. This is amplified when owners move to new locations where they haven't had time to build their social circle. My app would be a social media app that allows dog owners to create a profile exclusively for their dog. The profile would include information about the pup including listing likes and dislikes (e.g, Likes adult dogs, does not do well with puppies, etc). They could then find other dogs in the area that would be compatible with their dog and could set meetups at local parks. This would allow both the pup and the owner to meet new people and grow their pup's pack.
 
